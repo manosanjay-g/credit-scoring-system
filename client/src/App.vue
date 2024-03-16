@@ -57,7 +57,7 @@ const handleSubmit = async () => {
           class="px-4 bg-gray-200 focus:outline-blue-400 py-2 w-96 rounded-md"
           type="number"
           name="income"
-          step="10000"
+          step="1000"
           min="0"
           placeholder="Income"
           id=""
